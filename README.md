@@ -15,7 +15,7 @@
         </ol>
         <h1>Example Query Usage</h1>
         <h4><span>https://img-search-abstraction.glitch.me/lolcats%20funny?offset=10</span></h4>
-        <h4><span>https://img-sal.herokuapp.com/latest</span></h4>
+        <h4><span>https://img-search-abstraction.glitch.me/latest</span></h4>
         <h1>Example Query Output</h1>
         <p>[{</p><p><span>
   "url": "http://data.whicdn.com/images/34129178/large.jpg",
