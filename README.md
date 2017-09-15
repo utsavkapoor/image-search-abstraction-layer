@@ -2,7 +2,7 @@
 <html>
 
    <head>
-      <title>URL Shortner Service</title>
+      
       <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
       <link href="/public/style.css" rel="stylesheet" type="text/css">
    </head>
