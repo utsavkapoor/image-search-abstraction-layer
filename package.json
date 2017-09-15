@@ -1,0 +1,22 @@
+{
+  "name": "img-search-abstraction",
+  "version": "1.0.0",
+  "description": "Free Code Camp: Backend API Challenge of Image Search Abstraction Layer",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongod": "^2.0.0",
+    "mongodb": "^2.2.31"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/utsavkapoor/image-search-abstraction-layer"
+  }
+}
