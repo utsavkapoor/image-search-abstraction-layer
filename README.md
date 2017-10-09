@@ -3,20 +3,20 @@
 
    <head>
    </head>
-
-      <div class="container">
-         <h1>FreeCodeCamp API Basejump: Image Search Abstraction Layer</h1>
-        <h4>User Stories:</h4>
-        <ol>
-          <li> I can get the image URLs, alt text and page urls for a set of images relating to a given search string.</li>
-          <li> I can paginate through the responses by adding a ?offset=2 parameter to the URL.</li>
-          <li> I can get a list of the most recently submitted search strings.</li>
-        </ol>
-        <h1>Example Query Usage</h1>
-        <h4><span>https://img-search-abstraction.glitch.me/new/funny%20cats?offset=10</span></h4>
-        <h4><span>https://img-search-abstraction.glitch.me/latest</span></h4>
-        <h1>Example Query Output</h1>
-        <p>[{</p><p><span>
+<body>
+<div class="container">
+<h1>FreeCodeCamp API Basejump: Image Search Abstraction Layer</h1>
+<h4>User Stories:</h4>
+<ol>
+<li> I can get the image URLs, alt text and page urls for a set of images relating to a given search string.</li>
+<li> I can paginate through the responses by adding a ?offset=2 parameter to the URL.
+</li>
+<li> I can get a list of the most recently submitted search strings.</li></ol>
+<h1>Example Query Usage</h1>
+<h4><span>https://img-search-abstraction.glitch.me/new/funny%20cats?offset=10</span></h4>
+<h4><span>https://img-search-abstraction.glitch.me/latest</span></h4>
+<h1>Example Query Output</h1>
+<p>[{</p><p><span>
   "url": "https://cdn.pixabay.com/photo/2016/04/16/23/07/cat-1333926_150.jpg",
   "tags":"cat, wink, funny",
   "thumbnail":"https://cdn.pixabay.com/user/2017/06/05/21-28-42-712_250x250.png",
