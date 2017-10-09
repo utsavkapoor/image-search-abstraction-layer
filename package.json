@@ -3,9 +3,12 @@
   "version": "1.0.0",
   "description": "Free Code Camp: Backend API Challenge of Image Search Abstraction Layer",
   "dependencies": {
-    "express": "^4.15.4",
+    "express": "^4.16.1",
     "mongod": "^2.0.0",
-    "mongodb": "^2.2.31"
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.13",
+    "google-images": "^2.1.0",
+    "request": "^2.83.0"
   },
   "main": "server.js",
   "scripts": {
